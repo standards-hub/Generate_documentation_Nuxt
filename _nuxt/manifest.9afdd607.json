@@ -1,0 +1,11 @@
+{
+  "name": "Generate_documentation_Nuxt",
+  "short_name": "Generate_documentation_Nuxt",
+  "description": "<<<<<<< HEAD\r # Prueba-doc\r =======\r # prueba1doc",
+  "icons": [],
+  "start_url": "/Generate_documentation_Nuxt/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E24F55",
+  "lang": "en"
+}
