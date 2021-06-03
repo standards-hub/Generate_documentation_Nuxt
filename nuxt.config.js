@@ -6,7 +6,7 @@ export default theme({
     primaryColor: '#E24F55'
   },
   router: { base: '/Generate_documentation_Nuxt/' },
-  build: {-
+  build: {
     publicPath: '/_nuxt/',
     babel:{
       plugins: [
@@ -26,4 +26,3 @@ export default theme({
     link: [{ rel: 'icon', type: 'image/png', href: './cim.png' }],
   }
 })
-  
