@@ -128,7 +128,7 @@ Be careful to enter <code>&lt;!--more--&gt;</code> exactly; i.e., all lowercase 
 
 <alert type="warning">
 
-An issue exists with locally registered components and live edit in development, since **v1.5.0** you can disable it by setting `liveEdit: false` (see [configuration](/configuration#liveedit)).
+An issue exists with locally registered components and live edit in development, since **v1.5.0** you can disable it by setting `liveEdit: false` (see [configuration](/)).
 
 </alert>
 
