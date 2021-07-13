@@ -19,7 +19,7 @@
     "@nuxtjs/optimize": "^1.1.1",
     "@nuxtjs/pwa": "^0.2.1",
     "babel-eslint": "^8.0.1",
-    "buefy": "^0.5.2",
+    "buefy": "0.7.2",
     "bulmaswatch": "^0.5.0",
     "eslint": "^4.7.2",
     "eslint-config-standard": "^10.2.1",
